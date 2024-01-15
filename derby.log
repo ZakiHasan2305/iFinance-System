@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Apr 07 22:58:42 EDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0187-5ecd-3ef6-000006b08000 
+on database directory /Users/zaki2305/Desktop/University Stuff/Western Undergrad/Second Year SE/Courses/Second Semester/Ouda_SE 2203B/Assignments/iFinanceAssignment4/iFINANCE/iFinanceDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5b480cf9 
+Loaded from file:/Users/zaki2305/Desktop/University%20Stuff/Western%20Undergrad/Second%20Year%20SE/Courses/Second%20Semester/Ouda_SE%202203B/Assignments/Lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=19.0.1+10-21
+user.dir=/Users/zaki2305/Desktop/University Stuff/Western Undergrad/Second Year SE/Courses/Second Semester/Ouda_SE 2203B/Assignments/iFinanceAssignment4/iFINANCE
+os.name=Mac OS X
+os.arch=aarch64
+os.version=13.2.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
